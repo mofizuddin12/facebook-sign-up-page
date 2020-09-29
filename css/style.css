@@ -1,0 +1,198 @@
+body{
+	background: linear-gradient(#DDE1EC , #FDFEFF ,#DDE1EC  ,#DDE1EC );
+	margin: 0px;
+	padding: 0px;
+}
+.header{
+	background: #435595;
+	height: 82px;
+	width: 100%;
+}
+.header-left{
+	font-size: 40px;
+	position: absolute;
+	top: 3%;
+	color: white;
+	left: 180px;
+	font-family: Helvetica, Arial, sans-serif;
+
+}
+.header-right-email{
+	position: absolute;
+	right: 495px;
+	top: 10px;
+	font-size: 12px;
+	font-family: Helvetica, Arial, sans-serif;
+	color: white;
+}
+.header-right-pass{
+	position: absolute;
+	right: 360px;
+	top: 10px;
+	font-size: 12px; 
+	font-family: Helvetica, Arial, sans-serif;
+	color: white;
+}
+.header-right{
+	margin-top: -4px;
+	position: absolute;
+	right: 80px;
+	top: 36px;
+
+}
+.header-right-input-email{
+	width: 150px;
+	height: 21px;
+	border: .5px solid black;
+}
+.header-right-input-password{
+	width: 150px;
+	height: 21px;
+	border: .5px solid black;
+	margin-left: 5px;
+    
+}
+.header-right-input-submit{
+	margin-left: 4px;
+	height: 29px;
+	width: 62px;
+	background: #2d5bba;
+	cursor: pointer;
+	box-shadow: 0px 1px 1px black;
+	border-radius: 4px;
+	font-weight: 600px;
+	color: #fff;
+}
+.header-right-input-submit:hover{
+	background: #3B5998;
+}
+.forgotton{
+	color: #fff;
+	text-decoration: none;
+	position: relative;
+	top:24px;
+	left: -224px;
+	font-size: 13px;
+
+}
+.forgotton:hover{
+	text-decoration: underline;
+}
+.left{
+	width: 55%;
+	position: absolute;
+	top: 20%;
+	left: 13%;
+}
+.body-left{
+	font-size: 20px;
+	width: 300px;
+	font-family: arial;
+	color: #133C62;
+}
+img{
+	margin: 100px 0px 0px 175px;
+
+}
+.right{
+	width: 45%;
+	position: absolute;
+	top: 16%;
+	left: 55%;
+}
+.tex{
+	margin-left: 30px;
+	font-family: arial;
+	color: #373737;
+	font-size: 40px;
+}
+.text{
+	margin-left: 30px;
+	font-family: arial;
+	color: #373737;
+	font-size: 20px;
+}
+.input1{
+	height: 23px;
+	width: 200px;
+	border-radius:3px;
+	border: 1px solid grey;
+	font-size: 14px;
+	margin-left: 30px;
+}
+.input-email{
+	height: 23px;
+	margin-top: 8px;
+	width: 443px;
+	border-radius:3px;
+	border: 1px solid grey;
+	font-size: 14px;
+	margin-left: 30px;
+}
+.input-password{
+	height: 23px;
+	margin-top: 8px;
+	width: 200px;
+	border-radius:3px;
+	border: 1px solid grey;
+	font-size: 14px;
+	margin-left: 30px;
+}
+.input-cpassword{
+	height: 23px;
+	margin-top: 8px;
+	width: 200px;
+	border-radius:3px;
+	border: 1px solid grey;
+	font-size: 14px;
+	margin-left: 30px;
+}
+.birthday{
+	 margin-left: 30px;
+	 margin-top: 15px;
+     font-size: 20px;
+     font-weight: bold;
+     color: grey;
+}
+a:hover{
+	text-decoration: underline;
+}
+.day{
+	height: 30px;
+	margin-left: 30px;
+	margin-top: 12px;
+}
+.month{
+	height: 30px;
+}
+.year{
+	height: 30px;
+}
+a{
+	text-decoration: none;
+	font-family: arial;
+	font-size: 12px;
+
+}
+.gndr{
+	 margin-left: 30px;
+	 margin-top: 15px;
+     font-size: 20px;
+     font-weight: bold;
+     color: grey;
+}
+input{
+	margin-left: 30px;
+}
+p{
+
+	margin-left: 30px;
+}
+.input-cr{
+	margin-left: 30px;
+	height: 30px;
+	background: green;
+	color: white;
+	cursor: pointer;
+	border-radius: px;
+}
